@@ -34,5 +34,5 @@ To get a local copy of the project up and running, follow these steps.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/leetcode-clone.git
+   git clone https://github.com/ncpsrb/leetcode-clone.git
    ```
